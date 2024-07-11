@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551494621967",
+    "project_id": "tutornest-a45ef",
+    "storage_bucket": "tutornest-a45ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551494621967:android:2aab0602da05372f7cfc7a",
+        "android_client_info": {
+          "package_name": "com.example.tutorhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoUoLe-vXk8SCUgEuLDfsSRr_Kkl3xPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
